@@ -84,8 +84,8 @@ h2 {
 }
 
 #result {
-  width: 200px;
-  height: 200px;
+  width: 400px;
+  height: 400px;
   margin-top: 10px;
 }
 
@@ -94,12 +94,15 @@ h2 {
   display: flex;
 }
 
+.margin {
+  margin-left: 20px;
+}
+
 .mart img,
 .pub img {
   width: 80px;
   height: 80px;
   border-radius: 50%;
-  margin-left: 20px;
 }
 
 h3 {
